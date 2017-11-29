@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tumblr.main.TumblrApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.174 sec - in com.tumblr.main.TumblrApplicationTests
